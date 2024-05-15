@@ -16,4 +16,4 @@ jobs:
         with:
           verb: call
           module: grafana
-          args: Hello
+          args: hello
